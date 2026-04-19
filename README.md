@@ -1,5 +1,5 @@
 Pandoc filter for creating tables with CSV.
-Format must conform to [CSV standard](#csv-format).
+Format must conform to [RFC 4180](#csv-format).
 Requires Pandoc 3.2 or later.
 
 ```
